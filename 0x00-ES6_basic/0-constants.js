@@ -1,6 +1,4 @@
 export function taskFirst() {
-  // Declare a variable `combination` using let and assign a string value to it.
-
   const task = "I prefer const when I can.";
   return task;
 }
