@@ -2,7 +2,8 @@
   "singleQuote": true,
   "editor.formatOnSave": true,
   "prettier.configPath": ".prettierrc",
-  "trailingComma": "all",
+  "trailingComma": "none",
   "arrowParens": "avoid",
-  "printWidth": 80
+  "printWidth": 80,
+  "bracketSpacing": true
 }
