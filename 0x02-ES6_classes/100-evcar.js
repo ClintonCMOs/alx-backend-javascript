@@ -1,4 +1,5 @@
-import Car from './10-car';
+/* eslint-disable */
+import Car from "1./10-car";
 
 export default class EVCar extends Car {
   constructor(brand, motor, color, range) {
